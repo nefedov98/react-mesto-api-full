@@ -1,0 +1,14 @@
+.popup__close_full {
+    top: -30px;
+}
+
+@media screen and (max-width: 425px) {
+    .popup__close_full {
+        background-size: 26px 26px;
+        width: 26px;
+        height: 26px;
+        right: 0px;
+        bottom: 205px;
+    }
+}
+

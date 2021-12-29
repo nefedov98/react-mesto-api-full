@@ -1,0 +1,16 @@
+.popup__close_delete {
+    right: 410px;
+    top: 190px;
+}
+/* .popup__close:hover {
+    opacity: 0.6;
+}
+@media screen and (max-width: 800px) {
+    .popup__close {
+        background-size: 26px 26px;
+        width: 26px;
+        height: 26px;
+        right: 0px;
+        bottom: 355px;
+    }
+} */

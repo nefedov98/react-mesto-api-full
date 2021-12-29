@@ -1,0 +1,8 @@
+.photos__card {
+    width: 282px;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    color: black;
+    position: relative;
+}

@@ -1,0 +1,31 @@
+.popup__close {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    background-image: url(../../../images/closeeikon.svg);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-color: transparent;
+    background-size: 33px 33px;
+    border: none;
+    width: 40px;
+    height: 40px;
+    right: -50px;
+    bottom: 345px;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+
+.popup__close:hover {
+    opacity: 0.6;
+}
+
+@media screen and (max-width: 800px) {
+    .popup__close {
+        background-size: 26px 26px;
+        width: 26px;
+        height: 26px;
+        right: 0px;
+        bottom: 355px;
+    }
+}

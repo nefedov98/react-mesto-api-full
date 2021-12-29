@@ -1,0 +1,13 @@
+.profile__bio {
+    padding-left: 30px;
+    padding-right: 18px;
+    display: flex;
+    align-self: center;
+}
+
+@media screen and (max-width: 580px) {
+    .profile__bio {
+        padding-top: 22px;
+        padding-bottom: 36px;
+    }
+}

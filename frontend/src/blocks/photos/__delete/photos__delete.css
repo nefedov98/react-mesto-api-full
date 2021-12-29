@@ -1,0 +1,14 @@
+.photos__delete {
+    margin: 0;
+    padding: 0;
+    width: 18px;
+    height: 19px;
+    position: absolute;
+    bottom: 330px;
+    left: 250px;
+    border: none;
+    cursor: pointer;
+    background-image: url(../../../images/urn.svg);
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
